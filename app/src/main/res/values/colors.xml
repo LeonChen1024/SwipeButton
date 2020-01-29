@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#008577</color>
+    <color name="colorPrimaryDark">#00574B</color>
+    <color name="colorAccent">#D81B60</color>
+
+
+    <color name="swipe_btn_default_arrow_color">#33ffffff</color>
+    <color name="swipe_btn_default_background">#C5CAE9</color>
+    <color name="swipe_btn_default_text_color">#FFFFFF</color>
+    <color name="proswipebtn_disabled_grey">#939393</color>
+</resources>
