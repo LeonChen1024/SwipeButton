@@ -83,3 +83,15 @@ lint/generated/
 lint/outputs/
 lint/tmp/
 # lint/reports/
+
+.idea/checkstyle-idea.xml
+
+.idea/codeStyles/codeStyleConfig.xml
+
+.idea/codeStyles/Project.xml
+
+.idea/inspectionProfiles/Project_Default.xml
+
+.idea/misc.xml
+
+.idea/runConfigurations.xml
